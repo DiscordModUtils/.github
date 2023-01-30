@@ -13,3 +13,4 @@ Automod is designed to moderate your server for you. It includes many different 
 Utilities module includes many commands useful for managing your server and your bot, including an alts system! It also includes commands such as ping and help.
 
 ## Tiers / Plans
+Find information about our plans [here.](https://github.com/discordmodutils/tiers)
