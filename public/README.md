@@ -8,3 +8,6 @@ The moderation module includes commands like ban, warn, mute, lock, etc. You can
 #### Automod
 _The Automod Module is coming soon._<br>
 Automod is designed to moderate your server for you. It includes many different filters (some of which are premium) to make moderating as easy as possible.
+
+#### Utilities
+Utilities module includes many commands useful for managing your server and your bot, including an alts system! It also includes commands such as ping and help.
