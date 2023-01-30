@@ -1,5 +1,5 @@
 # Discord Mod Utils
-### What is it?
+## What is it?
 DiscordModUtils is a fully featured Discord bot designed to help you manage your server. <br>
 <br>It includes many different modules to help you get the most out of the bot.
 #### Moderation / Cases
@@ -11,3 +11,5 @@ Automod is designed to moderate your server for you. It includes many different 
 
 #### Utilities
 Utilities module includes many commands useful for managing your server and your bot, including an alts system! It also includes commands such as ping and help.
+
+## Tiers / Plans
